@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Chhotu Kumar
+Build-Jdk: 19
+Main-Class: Q1.HelloWorld
+Created-By: Maven Integration for Eclipse
+
